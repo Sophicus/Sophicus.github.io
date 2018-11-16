@@ -1,0 +1,130 @@
+.box {
+    min-height: 50px;
+    padding: 20px;
+    margin: 20px;
+    font-weight: 300;
+    color: rgb(53, 53, 53);
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	border-radius: 8px;
+  }
+
+  .white {
+      background: #ffffff;
+  }
+  
+  hr {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color:#E4E4E4;
+    color:#E4E4E4;
+    border: 0 none;
+    height: 1px;
+  }
+
+img {
+	padding: 10px;
+	width:150px;
+	height: auto;
+}
+
+.img1 {
+	padding: 12px;
+	width:50%;
+	height: auto;
+	float: right;
+}
+
+.img2 {
+	padding: 10px;
+	width:100%;
+	height: auto;
+}
+
+.img3 { 
+		display:block;
+		max-width:100%;
+		height:auto; 
+		}
+
+.img4 {
+	padding: 0px;
+}
+
+.navbar-brand {
+	font-family: 'Fredoka One', cursive;
+	font-weight: 500;
+	font-size: 2em;
+	color:#69E2FF;
+	
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #C0DAE1;
+}
+
+.navbar-default .navbar-brand {
+	color:#6FE3FF;
+}
+
+.navbar {
+	background-color: #323031;
+	border-bottom-color:#292728;
+	border-bottom-width: 4px;
+}
+
+.footer {
+  	position: absolute;
+  	bottom: 0;
+  	width: 100%;
+	height: 130px;
+  	line-height: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	color: #ffffff;
+	
+}
+
+
+body {
+	background-image: url("assets/images/weather.png");
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 13.5px;
+}
+
+h1 {
+	font-family: 'Fredoka One', cursive;
+	font-weight: 500;
+	font-size: 32px;
+}
+
+h2 {
+	font-family: 'Fredoka One', cursive;
+	font-weight: 500;
+	font-size: 28px;
+}
+
+h3 {
+	font-family: 'Fredoka One', cursive;
+	font-weight: 500;
+	font-size: 24px;
+}
+
+h4 {
+	font-family: 'Fredoka One', cursive;
+	font-weight: 500;
+	font-size: 18px;
+   	color: white;
+   	text-shadow:
+       1px 2px 0 #546468,
+     -1px -1px 0 #546468,  
+      1px -1px 0 #546468,
+      -1px 1px 0 #546468,
+       1px 1px 0 #546468;
+}
+
+.intro {
+	font-size: 18px;
+}
